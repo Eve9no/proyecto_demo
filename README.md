@@ -1,3 +1,3 @@
 # proyecto_demo
 
-En este reppositorio se encuentra la documentacion del proyecto 
+En este repositorio se encuentra la documentacion del proyecto 
